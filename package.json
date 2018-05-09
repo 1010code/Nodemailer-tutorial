@@ -2,5 +2,28 @@
   "dependencies": {
     "dotenv": "^5.0.1",
     "nodemailer": "^4.6.4"
-  }
+  },
+  "name": "nodemailer-tutorial",
+  "description": "NodeJS send mail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1010code/Nodemailer-tutorial.git"
+  },
+  "keywords": [
+    "nodemailer",
+    "mail",
+    "node.js"
+  ],
+  "author": "1010code",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1010code/Nodemailer-tutorial/issues"
+  },
+  "homepage": "https://github.com/1010code/Nodemailer-tutorial#readme"
 }
